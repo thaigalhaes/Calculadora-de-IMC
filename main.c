@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(v) {
+int main() {
   int Peso =0;
   float IMC =0, Altura =0;
   printf("Peso: ");
