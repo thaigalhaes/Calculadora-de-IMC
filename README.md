@@ -9,5 +9,5 @@ Calculadora de IMC com C.
 - Peso: 56
 - Altura: 1.60
 
-# Exemplo de Saída:
+## Exemplo de Saída:
 - 21.87
